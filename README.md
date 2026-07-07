@@ -1,6 +1,6 @@
 # Introdução ao JavaScript
 
-**JavaScript** ou **JS** é uma linguagem de programação usada para criar págonas web dinâmicas, interativas e inteligentes.
+**JavaScript** ou **JS** é uma linguagem de programação usada para criar páginas web dinâmicas, interativas e inteligentes.
 
 Também é possível criar aplicações no servidor usando **Node.js**.
 
@@ -15,29 +15,31 @@ var antigo = true;
 ```
 
 ## Tipos de dados
-```
+```javascript
+
 String
 Number
 Boolean
 Null
-Underfined
+Undefined
 Object
 Array
 ```
 
 ## Condições
 ```javascript
-
 if (idade >= 18){
-    console.log ("maior de idade")
+  console.log("Maior de idade")
 }else{
-    console.log ("menor de idade")
+  console.log("Menor de idade")
 }
 ```
+
 ## Laços
 ```javascript
-for ()
-while ()
+
+for()
+while()
 do...while()
 
 ```
