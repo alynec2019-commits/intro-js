@@ -36,7 +36,7 @@ if (idade >= 18) {
   console.log("Você não é maior de idade")
 }
 
-
+// exemplo - login de usuáriodddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 let user = true
 if (user === true) {
   console.log("Seja bem vindo(a) Cristine")
